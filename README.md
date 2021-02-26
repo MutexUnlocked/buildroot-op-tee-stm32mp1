@@ -58,8 +58,8 @@ Please change /dev/sdX with the correct mounting point of your sd card.
 sudo dd if=images/sdcard.img of=/dev/sdX bs=1M conv=fdatasync status=progress
 ```
 
-## Console log
+## Connect to the System
 ```
-sudo picocom -b 115200 /dev/ttyACM0
+sudo minicom -s 
 ```
 
