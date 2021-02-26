@@ -8,7 +8,7 @@ Last updated on 2020.07.17
 ## Clone repository with submodules
 You must clone this project with
 ```
-git clone --recursive https://github.com/schenkmi/buildroot-op-tee-stm32mp1.git
+git clone --recursive https://github.com/MutexUnlocked/buildroot-op-tee-stm32mp1.git
 ```
 
 ## Preparing (once)
